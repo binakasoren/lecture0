@@ -1,0 +1,6 @@
+web $ git clone https ://github.com/binakasoren/lecture0.git
+cloning into 'lecture0'...warning:you apper to have  cloned an empty respository.
+web $ cd lecture0/
+lecture $ ls
+lecture $ touch hello.html
+lecture $ atom.
